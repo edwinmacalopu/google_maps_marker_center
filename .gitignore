@@ -12,6 +12,7 @@
 .idea
 .vscode
 
+
 # IntelliJ related
 *.iml
 *.ipr
