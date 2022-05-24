@@ -1,6 +1,6 @@
 # Google Maps Marker Center
 
-OSRM route is free, alternative to google api directions for flutter
+🌎 🔎 🚩 geolocation and address of place, also move the marker in the center with google maps in flutter.
 
 
 ## :test_tube: Demo
